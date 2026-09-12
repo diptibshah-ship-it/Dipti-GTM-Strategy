@@ -1,10 +1,10 @@
 # Roamly Groups · Competitive Battlecard & Strategic Bet, Module 2 (Exercise 2)
 
 ## Responses
-- **Who is Roamly Groups actually for, based on everything you now know?:** _(not filled in)_
-- **What is the one thing that makes it worth choosing over the competitor?:** _(not filled in)_
-- **What is the biggest threat to that position, based on your battlecard?:** _(not filled in)_
-- **Of all the signals you’re seeing, which one changes how you think about the market? Hint: looking at how your primary competitor wins, what does that tell you about what Roamly Groups needs to do differently to take that buyer?:** _(not filled in)_
-- **Complete the sentence: “I now believe that Roamly Groups wins when because”:** _(not filled in)_
-- **“I am betting that Roamly Groups wins by”, your strategic commitment, not what you’re building but how you’ll win with it.:** _(not filled in)_
-- **“To make this bet, I am deprioritizing”, every strategic bet means giving something up. Naming the sacrifice is the proof a real decision was made.:** _(not filled in)_
+- **Who is Roamly Groups actually for, based on everything you now know?:** _(Friend groups and reunion travelers, especially the person who organizes the trip and is currently doing the work of coordinating bookings, payments, and itineraries.)_
+- **What is the one thing that makes it worth choosing over the competitor?:** _(Roamly removes the organizer's burden by making group experiences easy to coordinate, book, pay for, and plan in one place.)_
+- **What is the biggest threat to that position, based on your battlecard?:** _(Viator's scale, huge selection, strong brand, and experience discovery make it easy for travelers to choose Viator instead.)_
+- **Of all the signals you’re seeing, which one changes how you think about the market? Hint: looking at how your primary competitor wins, what does that tell you about what Roamly Groups needs to do differently to take that buyer?:** _(Viator shows that experience selection and discovery are already well served. Roamly needs to win by solving the group organizer's coordination problem better—not by trying to offer more experiences)_
+- **Complete the sentence: “I now believe that Roamly Groups wins when because”:** _(I now believe that Roamly Groups wins when it makes the organizer's job dramatically easier, because Viator already wins at experience discovery and selection.)_
+- **“I am betting that Roamly Groups wins by”, your strategic commitment, not what you’re building but how you’ll win with it.:** _(I am betting that Roamly Groups wins by becoming the easiest way for one person to organize a great experience for an entire group—without chasing payments, coordinating availability, or managing multiple tools.)_
+- **“To make this bet, I am deprioritizing”, every strategic bet means giving something up. Naming the sacrifice is the proof a real decision was made.:** _(To make this bet, I am deprioritizing competing with Viator on marketplace breadth, number of experiences, and generic experience discovery)_
