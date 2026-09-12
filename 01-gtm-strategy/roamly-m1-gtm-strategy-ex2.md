@@ -44,3 +44,4 @@ Group booking conversion rate — the percentage of group-intent users who compl
 One-sentence strategy
 
 “Use PLG to turn existing Roamly travelers into group organizers, with each invitation creating an opportunity to acquire new users.”
+I want to push back on the assumption that users will automatically invite friends just because we offer group booking. Viator already has strong experience discovery, so Roamly needs to win by making the organizer's job dramatically easier—“Stop being the group's unpaid travel agent.”
