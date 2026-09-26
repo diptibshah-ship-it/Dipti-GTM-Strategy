@@ -9,6 +9,5 @@
 - **Tiers (What each is for):** _(Standard Groups: Small friend/family groups with shared booking, split payments, and itinerary.
 Large Groups: Larger celebrations/reunions with additional coordination needs.
 Custom Groups: Larger or more complex group experiences requiring host support.)_
-- **Which research method (Van Westendorp, Max-Diff, Conjoint) would you commission, and what specific assumption are you trying to validate?:** _(Conjoint. I would use it to validate the assumption that travelers will choose a slightly higher-priced Roamly booking in exchange for easier group coordination, split payments, and shared planning.
-- )_
+- **Which research method (Van Westendorp, Max-Diff, Conjoint) would you commission, and what specific assumption are you trying to validate?:** _(Conjoint. I would use it to validate the assumption that travelers will choose a slightly higher-priced Roamly booking in exchange for easier group coordination, split payments, and shared planning.)_
 - **What is the one thing in your recommendation that would change everything if you got it wrong?:** _(Willingness to pay. If organizers don't see enough value in the coordination benefits to accept even a small additional fee, we'd need to rethink the monetization model.)_
