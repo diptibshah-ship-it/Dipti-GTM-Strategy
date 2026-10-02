@@ -45,7 +45,26 @@ Complete the sentence: “I now believe that Roamly Groups wins when because”:
 “I am betting that Roamly Groups wins by”, your strategic commitment, not what you’re building but how you’ll win with it.: (I am betting that Roamly Groups wins by becoming the easiest way for one person to organize a great experience for an entire group—without chasing payments, coordinating availability, or managing multiple tools.)
 “To make this bet, I am deprioritizing”, every strategic bet means giving something up. Naming the sacrifice is the proof a real decision was made.: (To make this bet, I am deprioritizing competing with Viator on marketplace breadth, number of experiences, and generic experience discovery)
 --- POSITIONING (slide 4) ---
-[paste your Module 3 positioning framework, statement, and one-liner]
+[Target Persona
+Who they are: (Independent leisure travelers planning trips with a small group of friends. One person often becomes the unofficial “trip organizer” responsible for coordinating activities, schedules, bookings, and payments for everyone.)
+What they're trying to accomplish: (They want to discover and book memorable local experiences that everyone in the group can enjoy, while making planning and payment easy and collaborative.)
+What's getting in their way: (Group planning is fragmented. Travelers have to coordinate through group chats, check everyone's availability, book through separate accounts, collect money manually, and keep everyone updated. This creates extra work for the organizer and increases the likelihood that the group abandons the booking.)
+Positioning Framework
+FOR (Target Audience): (Friend groups traveling together, especially the person taking the lead on planning shared activities.)
+WHO WANT/NEED (The Need): (An easy way to plan and book high-quality local experiences together without one person managing all the logistics.)
+WE OFFER (The Offering): (Roamly Groups, a collaborative group-booking experience that combines curated local experiences with coordinated booking, split payments, and shared itinerary planning.)
+BECAUSE OF (Value Proposition): (Everyone can participate in planning and paying, reducing the coordination burden on one person and making it easier for the group to turn plans into booked experiences.)
+DESPITE (Barriers): (Travelers may already be accustomed to coordinating through group chats, payment apps, spreadsheets, or separate booking accounts and may not initially see the need for another planning tool.)
+BETTER THAN (Differentiation): (Instead of stitching together separate discovery, booking, payment, and communication tools, Roamly Groups brings the key group-booking steps into the same experience while giving travelers access to Roamly's network of 12,000+ vetted local experts.)
+Positioning Statement
+(For friend groups traveling together who want to experience the best of a destination without the headache of coordinating everyone, Roamly Groups makes discovering, planning, booking, and paying for curated local experiences easy to do together. Unlike managing plans across group chats, payment apps, and separate bookings, Roamly Groups brings the group into one shared experience so everyone can spend less time coordinating and more time enjoying the trip.)
+
+Pressure Test
+Test run: (Imagine giving the positioning statement to a traveler planning a weekend trip with five friends and asking: “What do you think this product does, who is it for, and why would you use it?”)
+What it revealed: (The statement clearly communicates the audience and the problem, but it is slightly long and feature-heavy. The most compelling benefit is not simply having group-booking features; it is removing the coordination burden from the person organizing the trip.)
+Blind-read result: (A reader should be able to identify that Roamly Groups is for people traveling with friends, helps them organize and book local experiences together, and eliminates the need to coordinate bookings and payments across multiple tools.)
+Final Positioning Statement
+(For friends traveling together, Roamly Groups makes it easy to turn “we should do this” into a shared experience everyone can actually book and enjoy. Discover curated local experiences, coordinate plans, and split payments in one place—without making one friend manage the whole trip.)]
 
 --- MESSAGING (slide 5) ---
 [paste your Module 4 messaging pillars and AI-generated copy asset]
