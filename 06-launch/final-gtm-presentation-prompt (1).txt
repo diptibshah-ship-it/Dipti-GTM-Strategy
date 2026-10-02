@@ -30,7 +30,13 @@ Which one segment is the most valuable to target first, and why?: (Friend groups
 What is the core value proposition for that segment?: (“Stop being the group’s unpaid travel agent.” Roamly Groups replaces chased Venmo requests and separate bookings with one shared link, automatic payment splitting, and a real-time shared itinerary — so the organizer plans less and the group still gets Roamly’s curated, vetted-host experience.)]
 
 --- COMPETITIVE INTELLIGENCE & STRATEGIC BET (slide 3) ---
-[paste your Module 2 battlecard highlights and strategic bet]
+[Competitor’s name: (Viator)
+Their core offering: (Marketplace for booking tours, activities, and local experiences worldwide)
+How they position themselves: (A one-stop marketplace for discovering and booking memorable travel experiences.)
+Their primary audience: (Independent travelers and tourists looking for things to do at their destination.)
+Known pricing or packaging: (Per-experience booking; prices vary by activity, with no general subscription required.)
+Why they’re your biggest threat: (Viator has a huge selection, global reach, strong brand recognition, and already owns the experience-booking customer journey)
+Looking at this battlecard, what is the one thing that makes you want to go back and adjust your M1 strategy, and why? “I want to revisit [x] because”: (I want to revisit my value proposition because Viator already competes strongly on experiences. I need to sharpen Roamly's differentiation around the group coordination experience—planning, booking, split payments, and shared itineraries.)]
 
 --- POSITIONING (slide 4) ---
 [paste your Module 3 positioning framework, statement, and one-liner]
