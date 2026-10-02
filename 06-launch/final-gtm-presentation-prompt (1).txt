@@ -1,0 +1,41 @@
+You are an expert presentation designer. Create a single, self-contained HTML file for my final Go-To-Market project presentation. It must run offline by simply opening the file in a browser, all CSS and JS inline, no build step, no external assets.
+
+DESIGN
+- A full-viewport vertical scroll-snap deck: one <section> per slide, each min-height:100vh, scroll-snap-align:start.
+- Dark navy theme (background #07162C), white headings, light-grey body text (#ffffff), and a #3b82f6 accent.
+- Clean sans-serif typography, generous spacing, a subtle fade-in as each slide enters, a thin top progress bar, and right-side nav dots.
+- Professional and minimal, no stock images. Use simple CSS cards, tables, pill tags, and accent bars to organise content.
+- Fully responsive and readable on a laptop and when screen-shared. Keyboard arrow-key navigation between slides.
+
+STRUCTURE, one slide each, in this exact order:
+1. Title, "Dipti Shah · Go-To-Market Final Project", product: Roamly groups, plus today's date.
+2. GTM Strategy, the GTM motion + rationale, target segment, and one-pager summary.
+3. Competitive Intelligence & Strategic Bet, battlecard highlights and the strategic bet.
+4. Positioning, the positioning framework, the finalized statement, and the one-liner.
+5. Messaging, the three messaging pillars (Value Prop, Capabilities, Evidence) per audience, plus the AI-generated copy asset.
+6. Pricing Recommendation, model choice, packaging approach, and the validating research method.
+7. Individual Insights, friction points, the biggest "aha" moment, and key takeaways.
+8. Closing, a one-line summary of the GTM bet + a thank-you.
+
+CONTENT, use exactly what I provide below. Keep each slide tight and scannable (prefer bullets over paragraphs); turn long text into clean bullet points. Do not invent facts I did not provide; where something is marked [in brackets], leave a clear placeholder.
+
+--- GTM STRATEGY (slide 2) ---
+[paste your Module 1 GTM strategy: motion, target audience, goal, one-pager]
+
+--- COMPETITIVE INTELLIGENCE & STRATEGIC BET (slide 3) ---
+[paste your Module 2 battlecard highlights and strategic bet]
+
+--- POSITIONING (slide 4) ---
+[paste your Module 3 positioning framework, statement, and one-liner]
+
+--- MESSAGING (slide 5) ---
+[paste your Module 4 messaging pillars and AI-generated copy asset]
+
+--- PRICING RECOMMENDATION (slide 6) ---
+[paste your Module 5 pricing recommendation: model, packaging, research]
+
+--- INDIVIDUAL INSIGHTS (slide 7) ---
+[friction points · aha moment · key takeaways]
+
+OUTPUT
+Return only the complete HTML file in a single code block, ready to save as index.html. After the code block, add one short line on how to open it.
